@@ -1,6 +1,6 @@
 # What is clangd?
 
-clangd understands your C++ code and adds smart features to your editor:
+clangd understands your C and C++ code and adds smart features to your editor:
 code completion, compile errors, go-to-definition and more.
 
 `clangd` is a _language server_ that can work with many editors via a plugin.
